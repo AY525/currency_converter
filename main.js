@@ -1,4 +1,3 @@
-// ここにAPIキーを直打ち
 const EXCHANGE_API_KEY = "8590f910d04621e87a4fc7e4";
 
 document.getElementById("convertBtn").addEventListener("click", async () => {
